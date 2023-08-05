@@ -9,4 +9,4 @@ GO TO THE LIVE SERVER
 
 ## HOME PAGE
 
-![Homepage](./output/Home page.png).
+./output/Home page.png
