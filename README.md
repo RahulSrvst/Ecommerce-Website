@@ -5,7 +5,7 @@ A responsive eCommerce website adapts its layout for optimal viewing on all devi
 
 GO TO THE LIVE SERVER
 
-### The Output will be Shown  as ----->
+## The WEBSITE will be Shown  as ----->
 
 # Home Page
 
